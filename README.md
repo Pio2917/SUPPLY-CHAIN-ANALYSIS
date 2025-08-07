@@ -8,7 +8,8 @@ This repository contains a comprehensive analysis of supply chain operations, wi
 - **supply_chain_data_cleaned.csv**: The cleaned and prepared dataset, ready for further analysis and visualization. 🗃️
 - **SUPPLY CHAIN POWER BI DASHBOARD.pbix**: An interactive Power BI dashboard that provides a high-level overview of the supply chain's performance, allowing for dynamic filtering and deep dives into the data. 📊
 - **SUPPLY CHAIN PERFORMANCE INSIGHTS.pptx**: A PowerPoint presentation summarizing the key findings and insights from the analysis, designed for a client-facing audience. 📋
-
+- **REPORT ON SUPPLY CHAIN PERFORMANCE.pdf**: A formal PDF report summarizing the project's findings, conclusions, and strategic recommendations for improving supply chain efficiency and business growth. 📄
+  
 ## Project Goal 🎯
 To analyse a dataset of supply chain operations to identify key performance drivers, inefficiencies, and opportunities for cost reduction and revenue growth. 💰🚀
 
